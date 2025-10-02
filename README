@@ -2,4 +2,4 @@
 
 ## Usage
 
-replace "INSERT_PROXIMIIO_APPLICATION_TOKEN" and "INSERT_MAP_URL" in ProximiioWebViewDemo/ContentView.swift
+replace "INSERT_PROXIMIIO_APPLICATION_TOKEN" and "INSERT_MAP_URL" in app/src/main/java/io/proximi/proximiiowebandroid/MainActivity.kt
