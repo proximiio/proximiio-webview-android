@@ -20,6 +20,8 @@
     <uses-permission android:name="android.permission.BLUETOOTH_ADVERTISE" />
     <uses-permission android:name="android.permission.BLUETOOTH_CONNECT" />
 
+        <!-- Android 15+ body sensors -->
+    <uses-permission android:name="android.permission.BODY_SENSORS" />
     <!-- Required for BLE scanning -->
     <uses-feature
         android:name="android.hardware.bluetooth_le"
