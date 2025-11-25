@@ -59,7 +59,7 @@ configurations.all {
 }
 
 dependencies {
-    implementation("io.proximi.library:core:5.3.0")
+    implementation("io.proximi.library:core:5.4.0")
 
     // Explicit androidx.core dependencies to ensure version alignment
     implementation(libs.androidx.core)
